@@ -1,8 +1,8 @@
-These are currently all the methods that i know of <br>
-1. Getting args from replacing be <br>
-2. Getting args from logs <br>
-3. Getting args from memory <br>
-To do the first method check ArgGetterBE.cpp <br>
-To do the second method check ArgGetterLOGS.cs<br>
-To do the third method, go into hxd (or another memory viewer) select BE <br>
+These are currently all the methods that i know of
+1. Getting args from replacing be
+2. Getting args from logs 
+3. Getting args from memory 
+To do the first method check ArgGetterBE.cpp 
+To do the second method check ArgGetterLOGS.cs
+To do the third method, go into hxd (or another memory viewer) select BE 
 while having fortnite open. And find fltoken (CTRL + F) and you should find it.
