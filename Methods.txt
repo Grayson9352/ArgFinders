@@ -2,7 +2,8 @@ These are currently all the methods that i know of
 1. Getting args from replacing be
 2. Getting args from logs 
 3. Getting args from memory 
-To do the first method check ArgGetterBE.cpp 
-To do the second method check ArgGetterLOGS.cs
+To do the first method check ArgGetterBE.cpp, put it in vs19 and build it and rename it to FortniteClient-Win64-Shipping_BE.exe and put it
+in your Fortnite\FortniteGame\Binaries\Win64
+To do the second method check ArgGetterLOGS.cs, put it in vs19 and build it and just run it.
 To do the third method, go into hxd (or another memory viewer) select BE 
 while having fortnite open. And find fltoken (CTRL + F) and you should find it.
