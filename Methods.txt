@@ -7,3 +7,7 @@ in your Fortnite\FortniteGame\Binaries\Win64
 To do the second method check ArgGetterLOGS.cs, put it in vs19 and build it and just run it.
 To do the third method, go into hxd (or another memory viewer) select BE 
 while having fortnite open. And find fltoken (CTRL + F) and you should find it.
+Credits:
+1st method: Idea came from Jacobb626
+2nd method: Idea came from Hybrid
+3rd method: Idea came from ItzAqua
